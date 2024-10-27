@@ -134,7 +134,6 @@ class TodoList extends Component
         ]);
 
         $this->reset('add');
-        ;
     }
 
     /**
