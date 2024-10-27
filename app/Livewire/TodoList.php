@@ -146,9 +146,6 @@ class TodoList extends Component
     {
         $todo = $this->getTodoById($id);
         $todo->delete();
-
-        // Obnovenie komponentu
-        $this->dispatch('$refresh');
     }
 
     /**
