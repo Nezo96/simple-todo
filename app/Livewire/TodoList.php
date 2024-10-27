@@ -51,7 +51,7 @@ class TodoList extends Component
     }
 
     /**
-     * Táto metóda slúži na zýskanie todo podľa id
+     * Táto metóda slúži na získanie todo podľa id
      * @param mixed $id
      * @return TModel|\Illuminate\Database\Eloquent\Collection|null
      */
