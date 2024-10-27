@@ -9,13 +9,16 @@
 
 ## About this application
 
-This is simple todo application written in laravel 11 and livewire 3.
+EN: This is simple todo application written in laravel 11 and livewire 3.
+SK: Toto je jednoduchá aplikácia todo napísaná v laravel 11 a livewire 3.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+EN: Laravel is accessible, powerful, and provides tools required for large, robust applications.
+SK: Laravel je prístupný, výkonný a poskytuje nástroje potrebné pre veľké a robustné aplikácie.
 
 ## Running application
 
-To run this application use following commands
+EN: To run this application use following commands
+SK: Na spustenie tejto aplikácie použite nasledujúce príkazy
 
 ```bash
 # Run composer
